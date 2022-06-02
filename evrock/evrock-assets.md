@@ -1,0 +1,1 @@
+# default assets for evrock
